@@ -14,7 +14,6 @@
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
 <img src="https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=white">
 <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?&style=for-the-badge&logo=Spring%20Boot&logoColor=white">
-<img src="https://img.shields.io/badge/Junit5-25A162.svg?&style=for-the-badge&logo=Junit5&logoColor=white">
 <img src="https://img.shields.io/badge/Spring%20Data%20JPA-25A162.svg?&style=for-the-badge&logo=Spring%20Data%20JPA&logoColor=white">
 <img src="https://img.shields.io/badge/Spring%20Data%20Websocket-25A162.svg?&style=for-the-badge&logo=Spring%20Data%20JPA&logoColor=white">
 <img src="https://img.shields.io/badge/swagger-85EA2D.svg?&style=for-the-badge&logo=swagger&logoColor=white">
